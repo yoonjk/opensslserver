@@ -1,0 +1,27 @@
+{
+  "name": "opensslserver",
+  "version": "1.0.0",
+  "description": "openssl ssl server",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonjk/opensslserver.git"
+  },
+  "keywords": [
+    "ssl"
+  ],
+  "author": "jaeguk yun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonjk/opensslserver/issues"
+  },
+  "homepage": "https://github.com/yoonjk/opensslserver#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
